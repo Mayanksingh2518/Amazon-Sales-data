@@ -34,9 +34,8 @@ This repository contains a Power BI dashboard built using Amazon sales data. The
 4. Checked for outliers or anomalies and corrected them where necessary.
 
 ## Contributors
-- [Your Name]
-- [Your Email]
-- [Your Organization]
+- [Mayank singh]
+- [mayanksingh2518@gmail.com]
 
 ## Feedback and Suggestions
 We welcome any feedback or suggestions for improving the dashboard or data analysis. Feel free to reach out to us with your ideas!
